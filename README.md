@@ -1,2 +1,2 @@
-# DynamicPricingWithReinforcementLearning
+# Dynamic Pricing with Reinforcement Learning
  
